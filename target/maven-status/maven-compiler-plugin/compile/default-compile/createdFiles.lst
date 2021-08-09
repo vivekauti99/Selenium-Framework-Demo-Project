@@ -1,0 +1,6 @@
+com\DemoProject\PageObject\GooglePage.class
+com\DemoProject\PageObject\GoogleSearchResultPage.class
+com\DemoProject\Resources\Base.class
+com\DemoProject\PageObject\AmazonWebPage.class
+com\DemoProject\Resources\ExcelOperations.class
+com\DemoProject\PageObject\AmazonSearchResultPage.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24249" started-at="2021-08-09T10:33:28 IST" finished-at="2021-08-09T10:33:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24249" started-at="2021-08-09T10:33:28 IST" finished-at="2021-08-09T10:33:53 IST">
+      <class name="com.DemoProject.testcases.AmazonSearch">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.DemoProject.testcases.AmazonSearch@3d921e20]" name="setup" is-config="true" duration-ms="3237" started-at="2021-08-09T10:33:28 IST" finished-at="2021-08-09T10:33:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findBook()[pri:0, instance:com.DemoProject.testcases.AmazonSearch@3d921e20]" name="findBook" duration-ms="10720" started-at="2021-08-09T10:33:32 IST" finished-at="2021-08-09T10:33:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.DemoProject.testcases.AmazonSearch@3d921e20]" name="tearDown" is-config="true" duration-ms="10240" started-at="2021-08-09T10:33:42 IST" finished-at="2021-08-09T10:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DemoProject.testcases.AmazonSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
